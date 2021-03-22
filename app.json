@@ -1,0 +1,12 @@
+{
+  "name": "evenSplitApp",
+  "displayName": "evenSplitApp",
+  "expo": {
+    "name": "evenSplitApp",
+    "slug": "evenSplitApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
